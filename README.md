@@ -1,25 +1,18 @@
-Olá, eu sou o Luan Suldovski 👋
+# 💫 About Me:
+Olá, eu sou o Luan Suldovski 👋<br><br>Desenvolvedor de software e estudante de Engenharia de Software na Universidade Positivo (Curitiba, PR). Construo aplicações web full stack com React, TypeScript, Node.js e Python, com foco em automação, segurança e dados.<br><br>🌐 Redes:<br><br>Instagram · LinkedIn · E-mail<br><br>🚀 Projetos em destaque:<br>🏆 CASE-THALES · 1º lugar no Desafio AMCHAM entre Universidades 2026. Plataforma de manutenção preditiva que transforma dados históricos de CMMS em alertas e planos de manutenção. Python, Flask, SQLite, React, TypeScript, scikit-learn (Random Forest), mais de 700 testes pytest.<br>👥 PROGERH · Sistema de gestão de RH multi-obra com mais de 30 telas, controle de acesso por perfil, criptografia AES-GCM 256 bits para dados sensíveis (LGPD) e portal do colaborador. React, TypeScript, TanStack Start, Firebase, Supabase, Cloudflare, Vercel.<br>💰 Controle (Budget Buddy) · App de controle financeiro pessoal mobile-first com login por PIN e biometria (WebAuthn), importação de CSV, exportação em PDF e backup diário automatizado com GitHub Actions. React, TypeScript, Tailwind CSS, Firebase.<br>💻 Tecnologias:<br><br>Linguagens: TypeScript · Python · Java · Kotlin · C# · C · JavaScript · HTML5<br><br>Frameworks e Bibliotecas: React · Node.js · Flask · Tailwind CSS · scikit-learn<br><br>Dados e Cloud: Firebase · Supabase · SQLite · Vercel · Cloudflare<br><br>Ferramentas: Git · GitHub · GitHub Actions · Docker<br><br>📊 Estatísticas do GitHub:<br><br>Estatísticas gerais · Linguagens mais usadas
 
-Desenvolvedor de software e estudante de Engenharia de Software na Universidade Positivo (Curitiba, PR). Construo aplicações web full stack com React, TypeScript, Node.js e Python, com foco em automação, segurança e dados.
 
-🌐 Redes:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/luansuldovski?vrfl=c2pkb3h4NWJjdTVq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luansuldovski/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luaniliano1100@gmail.com) 
 
-Instagram · LinkedIn · E-mail
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Suldovski&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Suldovski&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suldovski&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🚀 Projetos em destaque:
-🏆 CASE-THALES · 1º lugar no Desafio AMCHAM entre Universidades 2026. Plataforma de manutenção preditiva que transforma dados históricos de CMMS em alertas e planos de manutenção. Python, Flask, SQLite, React, TypeScript, scikit-learn (Random Forest), mais de 700 testes pytest.
-👥 PROGERH · Sistema de gestão de RH multi-obra com mais de 30 telas, controle de acesso por perfil, criptografia AES-GCM 256 bits para dados sensíveis (LGPD) e portal do colaborador. React, TypeScript, TanStack Start, Firebase, Supabase, Cloudflare, Vercel.
-💰 Controle (Budget Buddy) · App de controle financeiro pessoal mobile-first com login por PIN e biometria (WebAuthn), importação de CSV, exportação em PDF e backup diário automatizado com GitHub Actions. React, TypeScript, Tailwind CSS, Firebase.
-💻 Tecnologias:
+---
+[![](https://komarev.com/ghpvc/?username=Suldovski&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Linguagens: TypeScript · Python · Java · Kotlin · C# · C · JavaScript · HTML5
-
-Frameworks e Bibliotecas: React · Node.js · Flask · Tailwind CSS · scikit-learn
-
-Dados e Cloud: Firebase · Supabase · SQLite · Vercel · Cloudflare
-
-Ferramentas: Git · GitHub · GitHub Actions · Docker
-
-📊 Estatísticas do GitHub:
-
-Estatísticas gerais · Linguagens mais usadas
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
