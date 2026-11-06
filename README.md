@@ -1,13 +1,25 @@
+Olá, eu sou o Luan Suldovski 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luansuldovski) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LuanSuldovski) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luaniliano1100@gmail.com) 
+Desenvolvedor de software e estudante de Engenharia de Software na Universidade Positivo (Curitiba, PR). Construo aplicações web full stack com React, TypeScript, Node.js e Python, com foco em automação, segurança e dados.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Suldovski&theme=dark&hide_border=true&include_all_commits=true&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suldovski&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+🌐 Redes:
 
----
-[![](https://visitcount.itsvg.in/api?id=Suldovski&icon=0&color=0)](https://visitcount.itsvg.in)
+Instagram · LinkedIn · E-mail
 
+🚀 Projetos em destaque:
+🏆 CASE-THALES · 1º lugar no Desafio AMCHAM entre Universidades 2026. Plataforma de manutenção preditiva que transforma dados históricos de CMMS em alertas e planos de manutenção. Python, Flask, SQLite, React, TypeScript, scikit-learn (Random Forest), mais de 700 testes pytest.
+👥 PROGERH · Sistema de gestão de RH multi-obra com mais de 30 telas, controle de acesso por perfil, criptografia AES-GCM 256 bits para dados sensíveis (LGPD) e portal do colaborador. React, TypeScript, TanStack Start, Firebase, Supabase, Cloudflare, Vercel.
+💰 Controle (Budget Buddy) · App de controle financeiro pessoal mobile-first com login por PIN e biometria (WebAuthn), importação de CSV, exportação em PDF e backup diário automatizado com GitHub Actions. React, TypeScript, Tailwind CSS, Firebase.
+💻 Tecnologias:
+
+Linguagens: TypeScript · Python · Java · Kotlin · C# · C · JavaScript · HTML5
+
+Frameworks e Bibliotecas: React · Node.js · Flask · Tailwind CSS · scikit-learn
+
+Dados e Cloud: Firebase · Supabase · SQLite · Vercel · Cloudflare
+
+Ferramentas: Git · GitHub · GitHub Actions · Docker
+
+📊 Estatísticas do GitHub:
+
+Estatísticas gerais · Linguagens mais usadas
